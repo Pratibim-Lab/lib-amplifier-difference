@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/AD8276:AD8276",
+  "name": "AD8276",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/AD8276.kicad_sym",
+  "description": "Low Power, Wide Supply Range, Low Cost Unity-Gain Difference Amplifier, SOIC-8/MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8276_8277.pdf",
+  "keywords": "difference amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/AD8276/",
+  "part_path": "parts/AD8276",
+  "symbol_file": "parts/AD8276/AD8276.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:37.318Z"
+}

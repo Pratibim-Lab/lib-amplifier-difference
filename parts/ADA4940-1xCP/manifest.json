@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/ADA4940-1xCP:ADA4940-1xCP",
+  "name": "ADA4940-1xCP",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/ADA4940-1xCP.kicad_sym",
+  "description": "Ultralow Power, Low Distortion, Fully Differential ADC Drivers, LFCSP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4940-1_4940-2.pdf",
+  "keywords": "differential amplifier",
+  "footprint": "Package_CSP:LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/ADA4940-1xCP/",
+  "part_path": "parts/ADA4940-1xCP",
+  "symbol_file": "parts/ADA4940-1xCP/ADA4940-1xCP.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:41.294Z"
+}

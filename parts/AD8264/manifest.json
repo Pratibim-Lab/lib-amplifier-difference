@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/AD8264:AD8264",
+  "name": "AD8264",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/AD8264.kicad_sym",
+  "description": "Quad, 235 MHz, 6-30 dB gain, ±2.5 V to ±5 V supply, DC-Coupled VGA and Differential Output Amplifier, QFN-40",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8264.pdf",
+  "keywords": "difference amplifier variable",
+  "footprint": "Package_DFN_QFN:HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/AD8264/",
+  "part_path": "parts/AD8264",
+  "symbol_file": "parts/AD8264/AD8264.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:36.296Z"
+}

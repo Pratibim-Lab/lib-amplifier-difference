@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/THS4521ID:THS4521ID",
+  "name": "THS4521ID",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/THS4521ID.kicad_sym",
+  "description": "Very Low Power, Negative Rail Input, Rail to Rail Output, Fully Differential Amplifier, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ths4521.pdf",
+  "keywords": "differential amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "THS4521IDGK",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/THS4521ID/",
+  "part_path": "parts/THS4521ID",
+  "symbol_file": "parts/THS4521ID/THS4521ID.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:49.106Z"
+}

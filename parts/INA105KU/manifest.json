@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/INA105KU:INA105KU",
+  "name": "INA105KU",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/INA105KU.kicad_sym",
+  "description": "Low Power, Wide Supply Range, Low Cost Unity-Gain Difference Amplifier, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina105.pdf",
+  "keywords": "difference amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "AD8276",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/INA105KU/",
+  "part_path": "parts/INA105KU",
+  "symbol_file": "parts/INA105KU/INA105KU.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:44.088Z"
+}

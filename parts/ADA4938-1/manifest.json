@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/ADA4938-1:ADA4938-1",
+  "name": "ADA4938-1",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/ADA4938-1.kicad_sym",
+  "description": "Ultralow distortion, high speed fully-differential amplifier, ADC Driver, 1GHz GBP, 3x3mm LFCSP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADA4938-1_4938-2.pdf",
+  "keywords": "Fully-Differential Amplifier ADC Driver",
+  "footprint": "Package_CSP:LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/ADA4938-1/",
+  "part_path": "parts/ADA4938-1",
+  "symbol_file": "parts/ADA4938-1/ADA4938-1.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:40.294Z"
+}

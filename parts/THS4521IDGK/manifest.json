@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/THS4521IDGK:THS4521IDGK",
+  "name": "THS4521IDGK",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/THS4521IDGK.kicad_sym",
+  "description": "Very Low Power, Negative Rail Input, Rail to Rail Output, Fully Differential Amplifier, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ths4521.pdf",
+  "keywords": "differential amplifier",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/THS4521IDGK/",
+  "part_path": "parts/THS4521IDGK",
+  "symbol_file": "parts/THS4521IDGK/THS4521IDGK.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:50.090Z"
+}

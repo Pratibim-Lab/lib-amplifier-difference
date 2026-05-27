@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/AD8207:AD8207",
+  "name": "AD8207",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/AD8207.kicad_sym",
+  "description": "65V (35V) Zero-Drift, High Voltage, Bidirectional, Difference Amplifier, 20V/V gain, bandwidth 150kHz, Vcc=5V (3.3V), SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8207.pdf",
+  "keywords": "highside HS current sense difference amplifier linear buffered",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/AD8207/",
+  "part_path": "parts/AD8207",
+  "symbol_file": "parts/AD8207/AD8207.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:35.347Z"
+}

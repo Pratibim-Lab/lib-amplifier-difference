@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/AD628:AD628",
+  "name": "AD628",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/AD628.kicad_sym",
+  "description": "High Common-Mode Voltage, Programmable Gain Difference Amplifier, ±120V, Gain = 0.1 to 100, SOIC-8/MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD628.pdf",
+  "keywords": "difference amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/AD628/",
+  "part_path": "parts/AD628",
+  "symbol_file": "parts/AD628/AD628.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:34.361Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/LM733CN:LM733CN",
+  "name": "LM733CN",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/LM733CN.kicad_sym",
+  "description": "Single Differential Amplifier, DIP-14",
+  "datasheet": "http://www.soemtron.org/downloads/disposals/lm733cn.pdf",
+  "keywords": "single differential video opamp",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/LM733CN/",
+  "part_path": "parts/LM733CN",
+  "symbol_file": "parts/LM733CN/LM733CN.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:46.306Z"
+}

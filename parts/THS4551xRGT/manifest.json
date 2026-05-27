@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/THS4551xRGT:THS4551xRGT",
+  "name": "THS4551xRGT",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/THS4551xRGT.kicad_sym",
+  "description": "Low-Noise Precision Fully Differential Amplifier, VQFN-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ths4551.pdf",
+  "keywords": "differential amplifier",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/THS4551xRGT/",
+  "part_path": "parts/THS4551xRGT",
+  "symbol_file": "parts/THS4551xRGT/THS4551xRGT.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:51.034Z"
+}

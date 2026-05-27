@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/LTC1992-x-xMS8:LTC1992-x-xMS8",
+  "name": "LTC1992-x-xMS8",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/LTC1992-x-xMS8.kicad_sym",
+  "description": "Low-Noise Precision Fully Differential Amplifier, fixed or variable gain, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1992fb.pdf",
+  "keywords": "fully differential amplifier",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/LTC1992-x-xMS8/",
+  "part_path": "parts/LTC1992-x-xMS8",
+  "symbol_file": "parts/LTC1992-x-xMS8/LTC1992-x-xMS8.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:48.184Z"
+}

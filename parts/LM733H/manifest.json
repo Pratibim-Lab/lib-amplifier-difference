@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Difference/LM733H:LM733H",
+  "name": "LM733H",
+  "library": "Amplifier_Difference",
+  "file": "Amplifier_Difference.kicad_symdir/LM733H.kicad_sym",
+  "description": "Single Differential Amplifier, TO-5-10",
+  "datasheet": "http://www.soemtron.org/downloads/disposals/lm733cn.pdf",
+  "keywords": "single differential video opamp",
+  "footprint": "Package_TO_SOT_THT:TO-5-10",
+  "extends": "LM733CH",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-difference@master/parts/LM733H/",
+  "part_path": "parts/LM733H",
+  "symbol_file": "parts/LM733H/LM733H.kicad_sym",
+  "source_library": "Amplifier_Difference.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:47.248Z"
+}
